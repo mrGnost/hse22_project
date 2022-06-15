@@ -60,7 +60,7 @@
 |95|WP_019844089.1|acetylornithine deacetylase|Промотор|3428.529|
 |95|WP_016943436.1|acetylornithine deacetylase|Промотор|3428.529|
 |95|WP_035339252.1|acetylornithine deacetylase|Промотор|2752.447|
-|132|WP_100850354.1|serine/threonine protein kinase|ПромоторПромотор|1122.597|
+|132|WP_100850354.1|serine/threonine protein kinase|Промотор|1122.597|
 |132|WP_022635456.1|serine/threonine protein kinase|Промотор|1122.597|
 |132|WP_019846536.1|serine/threonine protein kinase|Промотор|2945.877|
 |132|WP_024104008.1|serine/threonine protein kinase|Промотор|1122.597|
